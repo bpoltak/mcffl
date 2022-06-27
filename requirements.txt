@@ -1,6 +1,6 @@
 yffpy>=2.0.0
 yahoo_oauth==0.1.9
-reportlab==3.3.0
+reportlab==3.5.55
 pillow==5.4.1
 slackclient==1.3.1
 bs4

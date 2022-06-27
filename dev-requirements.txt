@@ -20,7 +20,7 @@ python-dateutil==2.8.0
 pytz==2019.2
 PyYAML==5.1.2
 rauth==0.7.3
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.22.0
 rsa==4.0
 six==1.12.0
